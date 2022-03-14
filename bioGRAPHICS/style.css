@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 14px;
+}
+
+.main {
+  background: linear-gradient(rgba(245, 90, 0, 0.7),rgba(171, 9, 235, 0.5),rgba(255, 0, 170, 0.5));
+  background-size: cover;
+  height: 110vh;
+}
+h1 {
+  font-size: 2rem;
+  font-family: rockwell;
+  padding: 0.8rem;
+  margin-left: 12%;
+  margin-right: 12%;
+  color: rgb(128, 0, 128);
+  text-align: center;
+
+}
+p {
+  font-family: cursive;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 1%;
+}
+
+h3 {
+  background-color: rgb(171, 176, 245);
+  font-family: rockwell;
+  color: navy;
+  margin-top: 10px;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 0.30rem;
+
+}
+
+li {
+  
+    color:rgb(48, 48, 160);
+    font-family: rockwell;
+    font-weight:bolder;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 3rem;
+  
+}
+img {
+  border: 2px solid #80aa80;
+  position: absolute;
+  top: 160px;
+  right: 110px;
+  
+
+}
